@@ -113,5 +113,3 @@ These enhancements align with the assignment requirements by:
    - **Student ID**: 200623684
 
 ---
-
-This README file explains the significant contributions made to enhance the methodology, aligning with the assignment's goals while demonstrating substantial improvement in the model’s accuracy and robustness.
