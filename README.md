@@ -36,19 +36,18 @@ The original code implemented a basic ANN architecture:
 ## Enhancements in Updated Code
 
 ### Updates Introduced
-The updated implementation improves on the original methodology with the following changes:
-1. **Dataset Integration**: New datasets from [GitHub Dataset Link](https://github.com/heliphix/btc_data/tree/paper_datasets) were added to test robustness.
-2. **Architectural Enhancements**:
+The updated implementation improves on the original methodology with the following changes in Training_ANN_cls_Group_Work_Updated.ipynb file:
+1. **Architectural Enhancements**:
    - Introduced **Batch Normalization** to stabilize training.
    - Added **Dropout layers** to reduce overfitting.
    - Optimized **hidden layers** with 512, 256, and 128 neurons.
-3. **Hyperparameter Tuning**:
+2. **Hyperparameter Tuning**:
    - Experimented with learning rates, batch sizes, and epochs.
    - Used dynamic learning rate scheduling.
-4. **Evaluation Metrics**:
+3. **Evaluation Metrics**:
    - Added Mean Absolute Error (MAE) and R-Squared.
    - Visualized metrics for better interpretability.
-5. **Visualization**:
+4. **Visualization**:
    - Graphs for training loss, accuracy trends, and prediction errors.
 
 ### Updated Model Results
