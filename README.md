@@ -59,7 +59,6 @@ The updated implementation improves on the original methodology with the followi
 ### Contribution Significance
 These enhancements align with the assignment requirements by:
 - Introducing methodological improvements to address overfitting and stabilization issues.
-- Testing the model on new datasets to evaluate robustness.
 - Providing a comprehensive evaluation framework with multiple performance metrics.
 
 ---
@@ -82,7 +81,7 @@ These enhancements align with the assignment requirements by:
    ```
 4. Run the updated Jupyter Notebook:
    ```bash
-   jupyter notebook Training_ANN_cls_updated.ipynb
+   jupyter notebook Training_ANN_cls_Group_Work_Updated.ipynb
    ```
 
 ### Dataset
